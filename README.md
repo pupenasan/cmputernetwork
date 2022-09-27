@@ -1,3 +1,5 @@
+[Веб-версія](https://pupenasan.github.io/cmputernetwork/)
+
 # Комп'ютерні мережі та розподілені системи
 
 - [Лекційний матеріал](lec/README.md)
