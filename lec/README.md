@@ -16,9 +16,9 @@
 
 7. [Протоколи TCP/UDP.](7.md) 
 
-8. [Додаткові служби TCP/IP: DHCP, NAT, Proxy, Port Forwarding, DNS та інші](8.md)
+8. [Додаткові служби TCP/IP](8.md)
 
-9. [Прикладний рівень. Пошта, HTTP, HTTP API, файловий обмін.](9.md) 
+9. [Прикладний рівень: HTTP, HTTP API](9.md) 
 
 10. [Формати представлення даних. HTML, XML, JSON](10.md)
 
